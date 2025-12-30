@@ -21,7 +21,9 @@ embedded systems, PCB design, power electronics, and system testing.
 
 ### Autonomous Maze-Navigating Robot
 - Designed and programmed a robot to autonomously solve a maze
-- Implemented sensor-based navigation and control logic
+- Implemented sensor-based navigation and decision-making logic
+- Integrated motors, drivers, and sensors into a working system
+- Project documentation → 🔗 https://github.com/mthomas-ee/maze-robot
 
 ### Eggz-R-Us – Chirping Easter Egg Circuit
 - Built an analog oscillator-based sound circuit
