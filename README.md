@@ -1,4 +1,3 @@
-# portfolio
 # Matthew Thomas – Electrical Engineer
 
 Recent Electrical Engineering graduate with hands-on experience in
