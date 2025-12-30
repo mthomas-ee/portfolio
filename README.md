@@ -26,5 +26,7 @@ embedded systems, PCB design, power electronics, and system testing.
 - Project documentation → 🔗 https://github.com/mthomas-ee/maze-robot
 
 ### Eggz-R-Us – Chirping Easter Egg Circuit
-- Built an analog oscillator-based sound circuit
-- Focused on schematic capture and PCB layout fundamentals
+- Designed a complete analog oscillator-based sound circuit
+- Applied RC timing and transistor amplification principles
+- Built, tested, and translated the circuit into a PCB layout
+- Project documentation → 🔗 https://github.com/mthomas-ee/eggz-r-us
