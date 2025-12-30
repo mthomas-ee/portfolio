@@ -14,10 +14,10 @@ embedded systems, PCB design, power electronics, and system testing.
 ## 📂 Projects
 
 ### Stryke – Wearable Sports Performance Device
-- Led power subsystem design using a 7.4V Li-ion battery
-- Designed 3.3V regulation with efficiency and dropout considerations
+- Led power subsystem design using a 7.4V Li-ion battery and 3.3V regulation
+- Achieved stable output within ±2% under load
 - Integrated Bluetooth, IMU sensors, and LCD display
-- Participated in PCB layout, assembly, and validation testing
+- Full project documentation → 🔗 https://github.com/mthomas-ee/stryke
 
 ### Autonomous Maze-Navigating Robot
 - Designed and programmed a robot to autonomously solve a maze
