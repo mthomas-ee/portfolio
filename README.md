@@ -30,3 +30,7 @@ embedded systems, PCB design, power electronics, and system testing.
 - Applied RC timing and transistor amplification principles
 - Built, tested, and translated the circuit into a PCB layout
 - Project documentation → 🔗 https://github.com/mthomas-ee/eggz-r-us
+
+### Cisco Packet Tracer – Networking Labs
+- Enterprise-style network design and security labs focused on routing, NAT, and access control using Cisco IOS.
+
